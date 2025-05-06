@@ -15,8 +15,7 @@ Neste laboratório, foi explorado o Bing Chat com suporte do Copilot para realiz
 * "Me dê cinco ideias de posts para o LinkedIn sobre IA no setor jurídico."
 * "Traduza o texto a seguir para o inglês mantendo a formalidade."
 
-Todos os prompts utilizados neste laboratório estão disponíveis no arquivo [`prompts/bing-prompts.md`](copilot-openAI-azure-lab/prompts
-/bing-prompts.md).
+Todos os prompts utilizados neste laboratório estão disponíveis no arquivo [`prompts/bing-prompts.md`](copilot-openAI-azure-lab/prompts/bing-prompts.md).
 
 ---
 ## 🧠 Aprendizados
