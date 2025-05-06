@@ -17,14 +17,23 @@ Este repositório documenta a execução de um laboratório prático com foco na
 | [Lab 2](lab2-azure-openAI/README.md)    | Integração com Azure OpenAI e exemplos de uso | [🔗 Acessar](https://aka.ms/ai900-azure-openai)    |
 | [Lab 3](lab3-content-filters/README.md) | Estudo sobre filtros de conteúdo na IA        | [🔗 Acessar](https://aka.ms/ai900-content-filters) |
 
-## 📂 Estrutura
+## 📂 Estrutura do Repositório
 
-* `README.md` – Visão geral do desafio.
-* `LABx-*.md` – Documentações específicas de cada laboratório.
-* `prompts/` – Prompts utilizados organizados por tema.
-* `images/` – Capturas de tela organizadas por laboratório.
-* `anotacoes.md` – Observações gerais, dificuldades, reflexões.
-
+```text
+copilot-openAI-azure-lab/
+├── README.md                         # Visão geral do desafio
+├── lab1-bing-copilot/
+│   └── README.md                     # Documentação do Lab 1 - Bing Copilot
+├── lab2-azure-openAI/
+│   └── README.md                     # Documentação do Lab 2 - Azure OpenAI
+├── lab3-content-filters/
+│   └── README.md                     # Documentação do Lab 3 - Filtros de Conteúdo
+├── prompts/
+│   ├── bing-prompts.md              # Prompts utilizados no Lab 1
+│   ├── azure-openai-prompts.md     # Prompts utilizados no Lab 2
+│   └── content-filters-prompts.md  # Prompts utilizados no Lab 3
+└── anotacoes.md                     # Observações gerais, dificuldades e reflexões
+```
 ## ⚠️ Acesso ao Azure OpenAI
 
 Para execução completa do Lab 2, é necessário solicitar acesso ao serviço via [aka.ms/oaiapply](https://aka.ms/oaiapply). Lembre-se: o acesso só é liberado para **e-mails corporativos**.
