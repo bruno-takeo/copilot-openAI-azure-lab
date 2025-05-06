@@ -11,7 +11,7 @@ Este repositório documenta a execução de um laboratório prático com foco na
 
 ## 🧩 Conteúdo
 
-| Laboratório                      | Descrição                                     | Link ùtil                                          |
+| Laboratório                      | Descrição                                     | Link útil                                          |
 | -------------------------------- | --------------------------------------------- | -------------------------------------------------- |
 | [Lab 1](lab1-bing-copilot/README.md)    | Exploração do Bing Chat e Copilot             | [🔗 Acessar](https://aka.ms/ai900-bing-copilot)    |
 | [Lab 2](lab2-azure-openAI/README.md)    | Integração com Azure OpenAI e exemplos de uso | [🔗 Acessar](https://aka.ms/ai900-azure-openai)    |
