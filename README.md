@@ -15,7 +15,7 @@ Este repositório documenta a execução de um laboratório prático com foco na
 | -------------------------------- | --------------------------------------------- | -------------------------------------------------- |
 | [Lab 1](lab1-bing-copilot/README.md)    | Exploração do Bing Chat e Copilot             | [🔗 Acessar](https://aka.ms/ai900-bing-copilot)    |
 | [Lab 2](lab2-azure-openAI/README.md)    | Integração com Azure OpenAI e exemplos de uso | [🔗 Acessar](https://aka.ms/ai900-azure-openai)    |
-| [Lab 3](LAB3-Content-Filters.md) | Estudo sobre filtros de conteúdo na IA        | [🔗 Acessar](https://aka.ms/ai900-content-filters) |
+| [Lab 3](lab3-content-filters/README.md) | Estudo sobre filtros de conteúdo na IA        | [🔗 Acessar](https://aka.ms/ai900-content-filters) |
 
 ## 📂 Estrutura
 
