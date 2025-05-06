@@ -14,7 +14,7 @@ Este laboratório focou nos mecanismos de filtragem de conteúdo oferecidos pela
 * Análise de logs de moderação e alertas de conteúdo inadequado;
 * Simulações com conteúdo sensível em diferentes contextos (ex: violência fictícia, linguagem ofensiva).
 
-Prompts usados estão descritos no arquivo [`prompts/content-filters-prompts.txt`](prompts/content-filters-prompts.txt).
+Os prompts utilizados estão documentados [neste arquivo](../prompts/prompts-content-filters-prompts.md).
 
 ---
 ## 🧠 Aprendizados
