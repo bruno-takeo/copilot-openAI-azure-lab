@@ -16,7 +16,8 @@ Neste laboratório, a proposta foi integrar aplicações com os serviços da Azu
 * "Gere código Python para ler um arquivo CSV e imprimir as 5 primeiras linhas."
 * "Simule uma conversa entre cliente e atendente sobre cancelamento de serviço."
 
-Os prompts estão documentados no arquivo [`prompts/azure-openai-prompts.txt`](prompts/azure-openai-prompts.txt).
+Os prompts utilizados estão documentados [neste arquivo](../prompts/prompts-azure-openai-prompts.md).
+
 
 ---
 ## 🧠 Aprendizados
